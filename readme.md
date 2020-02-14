@@ -14,5 +14,7 @@
 
 ##  git reflog     这是显示所有的操作记录，包括提交、回退的操作。
 
+git push https://github.com/xxx.git master  输入github账号密码后推送
+
 
 ##  测试过回退后-写的话：我是中国人，我爱自己的祖国。很开心我的代码没有丢失,耶！

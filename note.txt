@@ -19,7 +19,19 @@ git log --oneline	在一行显示提交日志
 	git reset --hard Head~0		回退到当前项目
 			  ...~1		回退到当前最近一次
 
-git reflog	是显示所有的操作记录，包括提交回退的操作。
+git reflog		是显示所有的操作记录，包括提交回退的操作。
+
+git branch 		查看分支
+
+git branch dev  	创建名为：dev的分支
+
+git branch -d dev	删除dev分支
+
+git checkout dev	切换到dev的分支
+
+git merge dev		合并dev分支到master
+
+
 	
 
 
